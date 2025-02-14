@@ -1,0 +1,16 @@
+.head_1 {
+    color: rgb(41, 52, 97);
+}
+
+.head_2 {
+    text-align: justify;
+    line-height: 2.5rem;
+    font-weight: 400;
+}
+
+.ccolor,.span_head,.r_head {
+    color: rgb(0,131,140);
+}
+
+
+

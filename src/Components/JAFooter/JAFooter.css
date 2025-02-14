@@ -1,0 +1,42 @@
+.footer_img {
+    height: 5rem;
+    width: 5rem;
+}
+
+.footer_section {
+    background-color: #293461;
+    margin: 0;
+    padding: 0;
+}
+
+.footer_address {
+    color: #fff;
+    font-weight: 400;
+}
+
+a {
+    text-decoration: none;
+}
+
+.h6 {
+    color: #d6d6d6;
+    font-weight: 400;
+}
+
+.h6:hover {
+    color: #fff;
+}
+
+.footer_logo {
+    height: 4rem;
+    width: 4rem;
+}
+
+.s_icon {
+    color: #d6d6d6;
+}
+
+.s_icon:hover {
+    cursor: pointer;
+    color: #fff;
+}

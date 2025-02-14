@@ -1,0 +1,29 @@
+.about_container {
+    background-color: rgb(41, 52, 97);
+}
+
+.about_head {
+    font-weight: 400;
+}
+
+.about_sidehead {
+    font-weight: 300;
+}
+
+.btn_1,.btn_2 {
+    padding: 0.3rem;
+    color: #fff;
+    background: none;
+    border: none;
+    margin: 0 1rem 0 0;
+}
+
+.btn_1:hover,.btn_2:hover {
+    color: #8d8b8b;
+}
+
+.play_logo {
+    height: 2rem;
+    width: 2rem;
+    margin: 0 0.5rem;
+}
