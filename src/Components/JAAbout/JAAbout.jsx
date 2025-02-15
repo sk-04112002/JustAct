@@ -9,10 +9,10 @@ function JAAbout() {
         <Container fluid className='about_container text-center'>
             <Container>
               <Row className='align-items-center h-100'>
-                <Col lg={6} md={12} sm={12} className='order-lg-1 order-md-2 order-sm-2'>
+                <Col lg={6} md={12} sm={12} className='first order-lg-1 order-md-2 order-sm-2'>
                 <Image src={About_Image} fluid></Image>
               </Col>
-              <Col lg={6} md={12} sm={12} className='order-lg-2 order-md-1 order-sm-1'>
+              <Col lg={6} md={12} sm={12} className='second order-lg-2 order-md-1 order-sm-1'>
                   <div className="about_content d-flex flex-column justify-content-center align-items-center py-sm-5 py-md-5">
                   <div className="display-3 mb-5 text-light about_head">
                       How JustAct works

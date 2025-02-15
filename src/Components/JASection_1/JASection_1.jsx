@@ -41,7 +41,7 @@ function JASection_1() {
             ))}
           </div>
 
-          <div className="d-flex d-lg-none justify-content-between">
+          <div className="small-device-section-1 d-flex d-lg-none justify-content-between">
             {Object.keys(contentMap).map((item) => (
               <p
                 key={item}

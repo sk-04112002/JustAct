@@ -40,3 +40,10 @@ a {
     cursor: pointer;
     color: #fff;
 }
+
+@media (max-width: 575.98px) {
+    .logo-footer {
+        justify-content: center;
+        margin-bottom: 2rem;
+    }
+}

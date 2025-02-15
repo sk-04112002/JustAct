@@ -11,7 +11,9 @@ function JAFooter() {
           <Row>
             <Col lg={4} md={12} sm={12}>
               <div className="text-left my-5">
-                <Image src={JALogo_White} fluid className='footer_logo mb-3'></Image>
+                <div className="logo-footer d-flex justify-content-sm-center justify-content-md-center justify-content-lg-start">
+                <Image src={JALogo_White} fluid className='footer_logo mb-sm-5 mb-md-5 mb-lg-3'></Image>
+                </div>
                 <div className="footer_address h2 mb-lg-5">T4, 7th street, VSI Estate Phase 2,
                   Thiruvanmiyur, Chennai, Tamil Nadu 600041, India</div>
                   <div className="socials d-flex justify-content-start gap-5">
